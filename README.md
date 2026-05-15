@@ -1,5 +1,5 @@
 # 💫 About Me:
-## 👋 Hi, I'm Parth Sharma  <br><br>🎯 Aspiring Data Scientist | Data Analyst | BI Developer  <br><br>I am a data enthusiast with a strong foundation in SQL, Python, and Business Intelligence tools. I specialize in transforming raw data into actionable insights through analytics, visualization, and storytelling.  <br><br>With hands-on experience in real-world datasets, I focus on solving business problems using data-driven approaches and continuously improving my skills in analytics and emerging technologies like Generative AI.<br><br>
+## 👋 Hi, I'm Samshad Ansari  <br><br>🎯 Aspiring Data Scientist | Data Analyst | BI Developer  <br><br>I am a data enthusiast with a strong foundation in SQL, Python, and Business Intelligence tools. I specialize in transforming raw data into actionable insights through analytics, visualization, and storytelling.  <br><br>With hands-on experience in real-world datasets, I focus on solving business problems using data-driven approaches and continuously improving my skills in analytics and emerging technologies like Generative AI.<br><br>
 
 ### 🚀 Skills & Tools  <br>- 💻 SQL (Advanced)  <br>- 🐍 Python (Advanced)  <br>- 📊 Power BI (Intermediate)  <br>- 📈 Excel (Advanced)  <br>- 🤖 Generative AI  <br><br>
 ---
